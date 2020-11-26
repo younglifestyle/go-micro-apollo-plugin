@@ -1,4 +1,4 @@
-module github.com/xxxmicro/go-micro-apollo-plugin
+module github.com/younglifestyle/go-micro-apollo-plugin
 
 go 1.14
 
