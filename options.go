@@ -2,7 +2,7 @@ package apollo
 
 import (
 	"context"
-	"github.com/micro/go-micro/v2/config/source"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/source"
 )
 
 type addressKey struct{}

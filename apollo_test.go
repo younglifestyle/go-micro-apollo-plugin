@@ -4,10 +4,10 @@ import(
 	"os"
 	"fmt"
 	"testing"
-	"github.com/micro/go-micro/v2/util/log"
-	"github.com/micro/go-micro/v2/config"
-	"github.com/micro/go-micro/v2/config/source"
-	"github.com/micro/go-micro/v2/config/encoder/yaml"
+	"gitlab.longsys.com/cloud/go-micro/v2/util/log"
+	"gitlab.longsys.com/cloud/go-micro/v2/config"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/source"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/encoder/yaml"
 )
 
 type MongoConfig struct {

@@ -1,9 +1,9 @@
 package apollo
 
 import (
-	"github.com/micro/go-micro/v2/config/encoder"
-	"github.com/micro/go-micro/v2/config/source"
-	"github.com/micro/go-micro/v2/util/log"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/encoder"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/source"
+	"gitlab.longsys.com/cloud/go-micro/v2/util/log"
 	"github.com/zouyx/agollo/v3/storage"
 	"time"
 	"fmt"

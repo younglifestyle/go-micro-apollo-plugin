@@ -1,9 +1,9 @@
 package apollo
 
 import (
-	"github.com/micro/go-micro/v2/util/log"
+	"gitlab.longsys.com/cloud/go-micro/v2/config/encoder"
+	"gitlab.longsys.com/cloud/go-micro/v2/util/log"
 	"strings"
-	"github.com/micro/go-micro/v2/config/encoder"
 )
 
 func makeMap(e encoder.Encoder, kv map[string]string) (map[string]interface{}, error) {	
